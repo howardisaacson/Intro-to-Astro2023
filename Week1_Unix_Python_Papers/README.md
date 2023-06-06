@@ -12,17 +12,11 @@ Youtube Recordings: [https://www.youtube.com/playlist?list=PLCNcoalRndQxA9bajziv
 
 ## Announcement about Piazza:
 * [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other.
-* You can join our class page at [this link](https://piazza.com/intro_to_astro/summer2022/intro2astro2022) and with the access code intro2astro2022.
+* You can join our class page at [this link](https://piazza.com/intro_to_astro/summer2023/2023) and with the access code 2023.
 * If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
 * There is an option to post anonymously.
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
 * Make sure you familiarize yourself with the Piazza platform this week.
-
-
-## Assignment of students to mentors
-
-* Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects.
-
 
 ## Assignments for Week 1
 

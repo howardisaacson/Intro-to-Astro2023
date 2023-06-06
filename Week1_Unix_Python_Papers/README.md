@@ -1,6 +1,6 @@
 ## First Meeting: June 12th, 2023: 5:00pm Pacific Daylight Time (UT-7).
 
-Youtube Recordings: https://youtu.be/sMK_ggEVsqA
+Youtube Recordings: [https://www.youtube.com/playlist?list=PLCNcoalRndQxA9bajziv-t6naxIlSy_ah]
 
 ## Agenda:
 * Introductions

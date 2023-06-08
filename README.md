@@ -2,7 +2,7 @@
 An free introduction to astronomy research for aspiring students/researchers/enthusiasts
 
 ## Youtube Tutorials Link:
-We will be uploading the tutorials for 2023 class on Youtube every week from Jun 12th to Aug 7th at: [YouTube](https://www.youtube.com/@intro2astro)
+We will be uploading the tutorials for 2023 class on Youtube every week from Jun 12th to Aug 7th at: [YouTube](https://www.youtube.com/@intro2astro](https://youtube.com/playlist?list=PLCNcoalRndQxA9bajziv-t6naxIlSy_ah)
 
 ## Course Website: [Link](https://sites.google.com/view/intro-2-astro)
 

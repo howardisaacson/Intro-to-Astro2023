@@ -1,11 +1,10 @@
-## Meeting Time: 5:00pm PDT, Monday June 20th 2022.
-Contact Details will be sent via email.
+## Meeting Time: 5:00pm PDT, Monday June 19th 2023.
+Zoom channel see Piazza or google group
 
-Instructors: 
 
 #### Agenda:
 
-1) Review/Checkin from last week (google form/poll):
+1) Review/Checkin from last week:
    - How did the tutorials go?
    - What should the instructors do differently this week?
 
@@ -35,7 +34,7 @@ Paper on a the planetary systems around Proxima Centauri: https://www.pnas.org/d
 
 Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2020/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md) while reading this paper!
 
-Post 2-3 questions you have about this paper on our class [Piazza](https://piazza.com/intro_to_astro/summer2022/intro2astro2022) page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
+Post 2-3 questions you have about this paper on Piazza. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
 
 ### II Respond to Discussion Question 2 in "Discussion Questions" above
 

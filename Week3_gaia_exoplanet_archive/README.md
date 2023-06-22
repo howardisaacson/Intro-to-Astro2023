@@ -1,18 +1,15 @@
-## Meeting Time: 5:00pm PDT (UT-7), Monday June 27th, 2022.
-Connection details will be sent via email
+## Meeting Time: 5:00pm PDT (UT-7), Monday June 26th, 2022.
 
-Instructors:
 
 #### Agenda:
 * Intro
-* Writing exercise
 * NASA Exoplanet Archive tutorial
 * Gaia Database tutorial
 * Discussion Questions for ["Planets around Proxima Centauri"](https://www.pnas.org/doi/pdf/10.1073/pnas.1706680114)
 
 ### Intro
 
-Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to_astro/summer2022/intro2astro2022) to continue the discussion!
+Feel free to share some of your thoughts on [Piazza] to continue the discussion!
 
 ### Tutorials
 1. NASA Exoplanet Archive
@@ -48,4 +45,4 @@ Bonus Questions:
 Choose 2 discussion questions (above) to respond to in your online notebook.
 
 ### IV Paper of the Week
-Read ["Growth model interpretation of planet size distribution"](https://www.pnas.org/content/116/20/9723) by Li Zeng *et al*. Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2021/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md). Post 2-3 questions you have about this paper on our class [Piazza](https://piazza.com/intro_to_astro/summer2022/intro2astro2022) page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
+Read ["Growth model interpretation of planet size distribution"](https://www.pnas.org/content/116/20/9723) by Li Zeng *et al*. Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2021/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md). Post 2-3 questions you have about this paper on our class [Piazza] page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
